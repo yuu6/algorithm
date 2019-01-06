@@ -156,8 +156,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+    <option name="x" value="1994" />
+    <option name="y" value="483" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -229,24 +229,24 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuu6.als.letterCombinations.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuu6.algorithms.combinationSum.Solution" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuu6.als.letterCombinations.*" />
+          <option name="PATTERN" value="com.yuu6.algorithms.combinationSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuu6.als.combinationSum.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.yuu6.algorithms.letterCombinations.Solution" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuu6.als.combinationSum.*" />
+          <option name="PATTERN" value="com.yuu6.algorithms.letterCombinations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

@@ -1,10 +1,8 @@
-package com.yuu6.als.letterCombinations;
+package com.yuu6.algorithms.letterCombinations;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Stack;
-import java.util.Vector;
 
 class Solution {
     List<String> res = new ArrayList<String>();

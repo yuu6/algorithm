@@ -1,4 +1,4 @@
-package com.yuu6.als.inorderTraversal;
+package com.yuu6.algorithms.inorderTraversal;
 
 
 import java.util.ArrayList;

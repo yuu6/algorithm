@@ -1,4 +1,4 @@
-package com.yuu6.als.combinationSum;
+package com.yuu6.algorithms.combinationSum;
 
 import java.util.*;
 import java.util.stream.Collectors;

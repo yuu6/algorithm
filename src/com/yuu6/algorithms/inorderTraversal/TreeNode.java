@@ -1,4 +1,4 @@
-package com.yuu6.als.inorderTraversal;
+package com.yuu6.algorithms.inorderTraversal;
 
 public class TreeNode {
     int val;
